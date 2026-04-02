@@ -1,9 +1,3 @@
-Project's Live Link 
-
-https://sshihabb007.000webhostapp.com/PhP/homepage
-
-Username : abc@g.com (for admin panel) Password : 88888888 
-
 # 📱 Online Smartphone Shop
 
 A full-stack, dynamic e-commerce web application designed specifically for browsing and purchasing smartphones. Built using a robust combination of **PHP, JavaScript, AJAX, jQuery, HTML, and CSS**, this project features a user-friendly storefront for customers and a secure, dedicated Admin Panel for managing inventory and orders. 
